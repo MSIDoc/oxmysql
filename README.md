@@ -1,6 +1,6 @@
 <h1 align='center'><a href='https://overextended.github.io/docs/oxmysql/'>Documentation</a></h2>
 
-# YOU MUST RENAME THE FOLDER TO `ghmattimysql` OR IT WONT WORK.
+# rename to OXMYSQL its now supported to call Ghmattymysql exports
 
 ### Introduction
 
