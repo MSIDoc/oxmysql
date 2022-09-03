@@ -1,6 +1,11 @@
 <h1 align='center'><a href='https://overextended.github.io/docs/oxmysql/'>Documentation</a></h2>
 
-# rename to OXMYSQL its now supported to call Ghmattymysql exports
+#  OXMYSQL
+* its now supported to call ghmattymysql exports
+
+# Releases Link
+
+[OXMYSQL RELEASE](https://github.com/overextended/oxmysql/releases)
 
 ### Introduction
 
