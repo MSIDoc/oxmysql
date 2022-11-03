@@ -15276,12 +15276,11 @@ var init_config = __esm({
         return connectionInfo;
       }, {});
       options.namedPlaceholders = options.namedPlaceholders === "false" ? false : true;
-      for (const key in options) {
+      for (const key in ["dateStrings", "flags", "ssl"]) {
         const value = options[key];
         if (typeof value === "string") {
           try {
             options[key] = JSON.parse(value);
-            console.log(key, options[key]);
           } catch {
           }
         }
